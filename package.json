@@ -2,7 +2,6 @@
   "_from": "sails-local-fs",
   "_id": "sails-local-fs@0.9.11",
   "_inBundle": false,
-  "_integrity": "sha1-+Gt+5qWL0yh/0lo5lBm0CFPEbTQ=",
   "_location": "/sails-local-fs",
   "_phantomChildren": {},
   "_requested": {
@@ -40,7 +39,7 @@
   "devDependencies": {
     "mocha": "^5.2.0"
   },
-  "homepage": "https://github.com/balderdashy/sails-local-fs#readme",
+  "homepage": "https://github.com/juliotorresmoreno/sails-local-fs#readme",
   "keywords": [
     "waterline",
     "file",
@@ -55,7 +54,7 @@
   "name": "sails-local-fs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails-local-fs.git"
+    "url": "git://github.com/juliotorresmoreno/sails-local-fs.git"
   },
   "scripts": {
     "test": "node test/runner.js"
