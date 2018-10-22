@@ -1,0 +1,64 @@
+{
+  "_from": "sails-local-fs",
+  "_id": "sails-local-fs@0.9.11",
+  "_inBundle": false,
+  "_integrity": "sha1-+Gt+5qWL0yh/0lo5lBm0CFPEbTQ=",
+  "_location": "/sails-local-fs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "sails-local-fs",
+    "name": "sails-local-fs",
+    "escapedName": "sails-local-fs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sails-local-fs/-/sails-local-fs-0.9.11.tgz",
+  "_shasum": "f86b7ee6a58bd3287fd25a399419b40853c46d34",
+  "_spec": "sails-local-fs",
+  "_where": "/home/juliotorres/htdocs",
+  "author": {
+    "name": "Mike McNeil"
+  },
+  "bugs": {
+    "url": "https://github.com/balderdashy/sails-local-fs/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "glob": "^7.1.3",
+    "lodash": "^4.17.11",
+    "waterline-blob": "~0.0.9"
+  },
+  "deprecated": false,
+  "description": "Local filesystem streaming binary adapter for Sails.js / Waterline",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "homepage": "https://github.com/balderdashy/sails-local-fs#readme",
+  "keywords": [
+    "waterline",
+    "file",
+    "orm",
+    "upload",
+    "sails",
+    "sails.js",
+    "sailsjs"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "sails-local-fs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/balderdashy/sails-local-fs.git"
+  },
+  "scripts": {
+    "test": "node test/runner.js"
+  },
+  "version": "0.9.11"
+}
